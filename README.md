@@ -22,6 +22,7 @@
 <h3 align="center">Dataset extension</h3>
 
 <h4 align="justify">The initial dataset consisted of 500 photos for the training sample, and 99 photos for the validation sample. I decided to expand the training dataset using the albumentations framework, which resulted in 1198 images for training.</h4>
+The code for expanding the training sample can be viewed in this [folder](#).
 
 <h3 align="center">Choose model</h3>
 
