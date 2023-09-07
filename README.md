@@ -9,3 +9,18 @@
 > Develop an algorithm to count seagulls that are larger than 5x5 pixels in a photograph and help the researchers.
 
 <h4 align="justify">Task metric - (1-RMSE). You can read about how it is calculated in the task baseline.</h4>
+
+<h2 align="center">Decision progress</h2>
+
+<h3 align="center">Dataset extension</h3>
+
+<h4 align="justify">The initial dataset consisted of 500 photos for the training sample, and 99 photos for the validation sample. I decided to expand the training dataset using the albumentations framework, which resulted in 1198 images for training.</h4>
+
+<h3 align="center">Choose model</h3>
+
+<h4 align="justify">For training, I decided to take the yolov5x model with an image size of 640 * 640, the maximum possible batch size (and this is -1 which automatically fills free space in RAM), 128 epochs.</h4>
+
+## **Submition score and place that turned out during the hackathon**
+### **Public  -1.4052026941611389**
+### **Private  -1.126590712784548**
+### **I took 5th place in the top 10**
