@@ -1,5 +1,7 @@
 <h1 align="center">Hackathon challenge ML Hackathon: Utashud's wild life!</h1>
 
+[![Code Size](https://img.shields.io/github/languages/code-size/EgorAndrik/Seagulls)](https://github.com/EgorAndrik/Seagulls)
+
 <h2 align="center">Hackathon Challenge: Seagulls</h2>
 
 > Utashud Island, part of the South Kamchatka Federal Reserve, lies 4 kilometers from the Pacific coast of Kamchatka in Vestnik Bay. Sea otters, anthurs, spotted seals, about 50,000 birds of ten different species live on it, including a colony of 10,000 hatchet pairs. At the hackathon, we are interested in two inhabitants of the island - spotted seal and techno-ocean gull, which are monitored through camera traps in the summer season.
@@ -22,7 +24,8 @@
 <h3 align="center">Dataset extension</h3>
 
 <h4 align="justify">The initial dataset consisted of 500 photos for the training sample, and 99 photos for the validation sample. I decided to expand the training dataset using the albumentations framework, which resulted in 1198 images for training.</h4>
-The code for expanding the training sample can be viewed in this [folder](#).
+
+The code for expanding the training sample can be viewed in this [folder](Dataset_extension).
 
 <h3 align="center">Choose model</h3>
 
