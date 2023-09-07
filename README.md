@@ -10,6 +10,11 @@
 
 <h4 align="justify">Task metric - (1-RMSE). You can read about how it is calculated in the task baseline.</h4>
 
+## Used technology stack:
+
+<img src="https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=python&logoColor=gold"/><img src="https://img.shields.io/badge/SKLEARN-black?style=for-the-badge&logo=scikit-learn&logoColor=blue"/><img src="https://img.shields.io/badge/JUPYTER-black?style=for-the-badge&logo=jupyter&logoColor=orange"/><img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=orange"/><img src="https://img.shields.io/badge/NUMPY-black?style=for-the-badge&logo=NumPy&logoColor=013243"/><img src="https://img.shields.io/badge/PANDAS-black?style=for-the-badge&logo=Pandas&logoColor=pink"/><img src="https://img.shields.io/badge/VSC-black?style=for-the-badge&logo=Visual Studio Code&logoColor=007ACC"/><img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=GitHub&logoColor=white"/><img src="https://img.shields.io/badge/YOLOv5-black?style=for-the-badge&logo=YOLO&logoColor=blue"/><img src="https://img.shields.io/badge/OPENCV-black?style=for-the-badge&logo=OpenCV&logoColor=green"/>
+
+
 <h2 align="center">Decision progress</h2>
 
 <h3 align="center">Dataset extension</h3>
